@@ -1,0 +1,9 @@
+name: EmotionCommands
+main: com.infinity.ec2.EmotionCommands2
+version: 1.1
+author: xXInfinityXx
+description: Use different commands to express your current emotion to the server!
+commands:
+  emotion:
+    description: Main EmotionCommands command.
+    usage: /<command>
